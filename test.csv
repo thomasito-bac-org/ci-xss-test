@@ -1,0 +1,4 @@
+name,value
+"<img src=x onerror=document.title='PWNEDCSV1'>",normal
+"=cmd|'/c calc'!A1",test
+"<svg onload=document.title='PWNEDCSV2'>","<script>document.title='PWNEDCSV3'</script>"
