@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "<img src=x onerror=document.title='PWNEDGEO1'>",
+        "description": "<svg onload=document.title='PWNEDGEO2'>",
+        "popupContent": "<script>document.title='PWNEDGEO3'</script>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194, 37.7749]
+      }
+    }
+  ]
+}
